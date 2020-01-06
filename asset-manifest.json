@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/accessibility-website/static/css/main.fc172610.chunk.css",
+    "main.js": "/accessibility-website/static/js/main.bdc70b0c.chunk.js",
+    "main.js.map": "/accessibility-website/static/js/main.bdc70b0c.chunk.js.map",
+    "runtime-main.js": "/accessibility-website/static/js/runtime-main.b8547697.js",
+    "runtime-main.js.map": "/accessibility-website/static/js/runtime-main.b8547697.js.map",
+    "static/js/2.30699a0e.chunk.js": "/accessibility-website/static/js/2.30699a0e.chunk.js",
+    "static/js/2.30699a0e.chunk.js.map": "/accessibility-website/static/js/2.30699a0e.chunk.js.map",
+    "index.html": "/accessibility-website/index.html",
+    "precache-manifest.aca355a691ddf88f4b3ad3b9ba2f63af.js": "/accessibility-website/precache-manifest.aca355a691ddf88f4b3ad3b9ba2f63af.js",
+    "service-worker.js": "/accessibility-website/service-worker.js",
+    "static/css/main.fc172610.chunk.css.map": "/accessibility-website/static/css/main.fc172610.chunk.css.map",
+    "static/js/2.30699a0e.chunk.js.LICENSE": "/accessibility-website/static/js/2.30699a0e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8547697.js",
+    "static/js/2.30699a0e.chunk.js",
+    "static/css/main.fc172610.chunk.css",
+    "static/js/main.bdc70b0c.chunk.js"
+  ]
+}
