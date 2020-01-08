@@ -1,25 +1,30 @@
 {
   "files": {
     "main.css": "/accessibility-website/static/css/main.e2ec099d.chunk.css",
-    "main.js": "/accessibility-website/static/js/main.0f8213a3.chunk.js",
-    "main.js.map": "/accessibility-website/static/js/main.0f8213a3.chunk.js.map",
+    "main.js": "/accessibility-website/static/js/main.d496904f.chunk.js",
+    "main.js.map": "/accessibility-website/static/js/main.d496904f.chunk.js.map",
     "runtime-main.js": "/accessibility-website/static/js/runtime-main.b8547697.js",
     "runtime-main.js.map": "/accessibility-website/static/js/runtime-main.b8547697.js.map",
-    "static/js/2.907d7d7c.chunk.js": "/accessibility-website/static/js/2.907d7d7c.chunk.js",
-    "static/js/2.907d7d7c.chunk.js.map": "/accessibility-website/static/js/2.907d7d7c.chunk.js.map",
+    "static/js/2.ca34e00b.chunk.js": "/accessibility-website/static/js/2.ca34e00b.chunk.js",
+    "static/js/2.ca34e00b.chunk.js.map": "/accessibility-website/static/js/2.ca34e00b.chunk.js.map",
     "index.html": "/accessibility-website/index.html",
-    "precache-manifest.33b7cf7e58ac0dbf7afb8c9fc5c905e9.js": "/accessibility-website/precache-manifest.33b7cf7e58ac0dbf7afb8c9fc5c905e9.js",
+    "precache-manifest.c45c1137e7bec111107c49d57a969a80.js": "/accessibility-website/precache-manifest.c45c1137e7bec111107c49d57a969a80.js",
     "service-worker.js": "/accessibility-website/service-worker.js",
     "static/css/main.e2ec099d.chunk.css.map": "/accessibility-website/static/css/main.e2ec099d.chunk.css.map",
-    "static/js/2.907d7d7c.chunk.js.LICENSE": "/accessibility-website/static/js/2.907d7d7c.chunk.js.LICENSE",
+    "static/js/2.ca34e00b.chunk.js.LICENSE": "/accessibility-website/static/js/2.ca34e00b.chunk.js.LICENSE",
+    "static/media/ATBar.png": "/accessibility-website/static/media/ATBar.77f83660.png",
+    "static/media/CSS.png": "/accessibility-website/static/media/CSS.1ef0563d.png",
     "static/media/EvernoteLogo.png": "/accessibility-website/static/media/EvernoteLogo.fecd1d36.png",
     "static/media/EvernoteLogoDark.png": "/accessibility-website/static/media/EvernoteLogoDark.1a4df27f.png",
-    "static/media/TrelloLogo.png": "/accessibility-website/static/media/TrelloLogo.98e7bb92.png"
+    "static/media/Tab.png": "/accessibility-website/static/media/Tab.15964ded.png",
+    "static/media/TrelloLogo.png": "/accessibility-website/static/media/TrelloLogo.98e7bb92.png",
+    "static/media/WAVE.png": "/accessibility-website/static/media/WAVE.ed3dcd0e.png",
+    "static/media/XHTML.png": "/accessibility-website/static/media/XHTML.cf7a1f7c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8547697.js",
-    "static/js/2.907d7d7c.chunk.js",
+    "static/js/2.ca34e00b.chunk.js",
     "static/css/main.e2ec099d.chunk.css",
-    "static/js/main.0f8213a3.chunk.js"
+    "static/js/main.d496904f.chunk.js"
   ]
 }
