@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/accessibility-website/static/css/main.fc172610.chunk.css",
-    "main.js": "/accessibility-website/static/js/main.bdc70b0c.chunk.js",
-    "main.js.map": "/accessibility-website/static/js/main.bdc70b0c.chunk.js.map",
+    "main.css": "/accessibility-website/static/css/main.e2ec099d.chunk.css",
+    "main.js": "/accessibility-website/static/js/main.f832f58b.chunk.js",
+    "main.js.map": "/accessibility-website/static/js/main.f832f58b.chunk.js.map",
     "runtime-main.js": "/accessibility-website/static/js/runtime-main.b8547697.js",
     "runtime-main.js.map": "/accessibility-website/static/js/runtime-main.b8547697.js.map",
-    "static/js/2.30699a0e.chunk.js": "/accessibility-website/static/js/2.30699a0e.chunk.js",
-    "static/js/2.30699a0e.chunk.js.map": "/accessibility-website/static/js/2.30699a0e.chunk.js.map",
+    "static/js/2.907d7d7c.chunk.js": "/accessibility-website/static/js/2.907d7d7c.chunk.js",
+    "static/js/2.907d7d7c.chunk.js.map": "/accessibility-website/static/js/2.907d7d7c.chunk.js.map",
     "index.html": "/accessibility-website/index.html",
-    "precache-manifest.aca355a691ddf88f4b3ad3b9ba2f63af.js": "/accessibility-website/precache-manifest.aca355a691ddf88f4b3ad3b9ba2f63af.js",
+    "precache-manifest.60a134ff2d78aa5152ec76660f8d6298.js": "/accessibility-website/precache-manifest.60a134ff2d78aa5152ec76660f8d6298.js",
     "service-worker.js": "/accessibility-website/service-worker.js",
-    "static/css/main.fc172610.chunk.css.map": "/accessibility-website/static/css/main.fc172610.chunk.css.map",
-    "static/js/2.30699a0e.chunk.js.LICENSE": "/accessibility-website/static/js/2.30699a0e.chunk.js.LICENSE"
+    "static/css/main.e2ec099d.chunk.css.map": "/accessibility-website/static/css/main.e2ec099d.chunk.css.map",
+    "static/js/2.907d7d7c.chunk.js.LICENSE": "/accessibility-website/static/js/2.907d7d7c.chunk.js.LICENSE",
+    "static/media/EvernoteLogo.png": "/accessibility-website/static/media/EvernoteLogo.fecd1d36.png",
+    "static/media/EvernoteLogoDark.png": "/accessibility-website/static/media/EvernoteLogoDark.1a4df27f.png",
+    "static/media/TrelloLogo.png": "/accessibility-website/static/media/TrelloLogo.98e7bb92.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8547697.js",
-    "static/js/2.30699a0e.chunk.js",
-    "static/css/main.fc172610.chunk.css",
-    "static/js/main.bdc70b0c.chunk.js"
+    "static/js/2.907d7d7c.chunk.js",
+    "static/css/main.e2ec099d.chunk.css",
+    "static/js/main.f832f58b.chunk.js"
   ]
 }
